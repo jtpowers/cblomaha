@@ -1,0 +1,239 @@
+.leagueheader {
+  padding-top: 50px;
+}
+
+.panel{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.panel-primary > .panel-heading {
+	background-color: #000099;}
+	
+.panel-body-smpad {
+  padding: 5px;
+}
+
+.navbar-default {
+  border: none;
+  background-color:#000099;
+  color:#ffffff;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a {
+  border: none;
+  background-color:#000099;
+  color:#DFDFDF;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	background-color: #BAF1EB;
+	color:#000000;
+	font-weight: bold;
+}
+
+.dropdown-menu { background-color:#BAF1EB}
+
+.dropdown-menu  > a:hover{ background-color:#000099}
+
+.home-sched {
+	overflow: auto;
+	height: 400px;
+}
+
+.game-scores {
+	overflow: auto;
+	height: 500px;
+}
+
+.titlemain { font-family: Verdana, Arial, Helvetica, sans-serif;
+    		font-weight: bold;
+			font-size: 18px;
+			line-height: 22px 
+}
+
+.titleyellow { font-family: Verdana, Arial, Helvetica, sans-serif;
+    		font-weight: bold;
+			font-size: 18px;
+			line-height: 20px;
+			color: yellow;
+}
+
+.titlesubw { font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 12px;
+			font-weight: bold;
+			line-height: 14px;
+			color: #FFFFFF;
+}
+
+.titlesub { font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 12px;
+			font-weight: bold;
+			line-height: 14px 
+}
+
+.titlesmw { font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 10px;
+			line-height: 12px;
+			font-weight: bold;
+			color: #FFFFFF
+}
+
+.titlesm { font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 10px;
+			line-height: 12px;
+			font-weight: bold;
+}
+
+.medium { font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 12px;
+			line-height: 14px 
+}
+
+.small { font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 10px;
+			line-height: 12px;
+}
+       
+.smallw { font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 10px;
+			line-height: 12px;
+			color: #FFFFFF;
+}
+
+.smallb { font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-weight: bold;
+			font-size: 10px;
+			line-height: 12px;
+}
+
+.keywords { font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: .2em;
+		line-height: .2em;
+		color: #FFFFFF;
+}
+
+.link { font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 12px;
+			line-height: 14px;
+			font-weight: bold;
+			text-decoration: none;
+			color: #003399 }
+
+.link:hover { font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 12px;
+			line-height: 14px;
+			font-weight: bold;
+			text-decoration: none;
+			color: #CC0000 }
+			
+.linksm { font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 10px;
+			line-height: 12px;
+			font-weight: bold;
+			text-decoration: none;
+			color: #003399 }
+
+.linksm:hover { font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 10px;
+			line-height: 12px;
+			font-weight: bold;
+			text-decoration: none;
+			color: #CC0000 }
+
+.table-fixed thead {
+  width: 97%;
+}
+.table.no-border tr td, .table.no-border tr th {
+  border-width: 0;
+}
+.table-fixed tbody {
+  height: 360px;
+  overflow-y: auto;
+  width: 100%;
+}
+.table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
+  display: block;
+}
+.table-fixed tbody td, .table-fixed thead > tr> th {
+  float: left;
+  border-bottom-width: 0;
+}
+.table-noborders {
+	border: none;
+}
+.alert-msg {
+	background-color: #CC0000;
+}
+.event-table {
+  height: 360px !important;;
+  overflow: auto;
+}
+.input-small {
+  height: 20px;
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+  color:#000000;
+}
+select.input-small {
+  height: 25px;
+  font-size: 12px;
+  line-height: 20px;
+}
+textarea.input-small,
+select[multiple].input-sm {
+  height: auto;
+  font-size: 12px;
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+	body{
+		background-color: gray;
+		font-family:arial;
+		color:#000000;
+		font-size:14px;	
+	}
+}
+
+@media (max-width: 991px) {
+	body{
+		background-color: gray;
+		font-family:arial;
+		color:#000000;
+		font-size:12px;
+	}
+    .navbar-header {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-collapse.collapse.in {
+        display: block!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 7.5px -15px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
