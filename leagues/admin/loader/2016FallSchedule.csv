@@ -1,0 +1,785 @@
+Season,Date,Time,Visitor,Home,Division,Location,Court
+Fall 2016,10/14/2016,5:30pm,3B Bellevue Ice 3rd,3B AL Jr Lynx 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/14/2016,6:30pm,3B Gretna Hermeling 3rd,3B Blair White 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/14/2016,7:30pm,3B Wildcats 3rd,3B Bennington Cemer 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/15/2016,10:00am,3B Bellevue Thunder Purple 3rd,3B AG Lady Jays 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/15/2016,11:00am,3B Elkhorn Elite Gold 3rd,3B Gretna French 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/15/2016,9:00am,3B Millard West Green 3rd,3B Gretna Rhoades 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/21/2016,5:30pm,3B Wildcats 3rd,3B Blair White 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/21/2016,6:30pm,3B AL Jr Lynx 3rd,3B Elkhorn Elite Gold 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/21/2016,7:30pm,3B Blair White 3rd,3B Millard West Green 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/22/2016,10:00am,3B Gretna French 3rd,3B Bellevue Thunder Purple 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/22/2016,11:00am,3B Bennington Cemer 3rd,3B Bellevue Ice 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/22/2016,9:00am,3B AG Lady Jays 3rd,3B Gretna Hermeling 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/28/2016,5:30pm,3B Gretna Rhoades 3rd,3B Wildcats 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/28/2016,6:30pm,3B Elkhorn Elite Gold 3rd,3B Bennington Cemer 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/28/2016,7:30pm,3B Bellevue Ice 3rd,3B Gretna Rhoades 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/29/2016,10:00am,3B AL Jr Lynx 3rd,3B Gretna French 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/29/2016,11:00am,3B Millard West Green 3rd,3B AG Lady Jays 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/29/2016,9:00am,3B Gretna Hermeling 3rd,3B Bellevue Thunder Purple 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/4/2016,5:30pm,3B Gretna French 3rd,3B Gretna Hermeling 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/4/2016,6:30pm,3B Bennington Cemer 3rd,3B AL Jr Lynx 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/4/2016,7:30pm,3B Bellevue Thunder Purple 3rd,3B Millard West Green 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/5/2016,10:00am,3B Gretna Rhoades 3rd,3B Elkhorn Elite Gold 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/5/2016,11:00am,3B AG Lady Jays 3rd,3B Wildcats 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/5/2016,9:00am,3B Blair White 3rd,3B Bellevue Ice 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/11/2016,5:30pm,3B Elkhorn Elite Gold 3rd,3B Blair White 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/11/2016,6:30pm,3B Wildcats 3rd,3B Bellevue Thunder Purple 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/11/2016,7:30pm,3B AL Jr Lynx 3rd,3B Gretna Rhoades 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/12/2016,10:00am,3B Bellevue Ice 3rd,3B AG Lady Jays 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/12/2016,11:00am,3B Bennington Cemer 3rd,3B Gretna French 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/12/2016,9:00am,3B Millard West Green 3rd,3B Gretna Hermeling 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/18/2016,5:30pm,3B Gretna Rhoades 3rd,3B Bennington Cemer 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/18/2016,6:30pm,3B Gretna French 3rd,3B Millard West Green 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/18/2016,7:30pm,3B Gretna Hermeling 3rd,3B Wildcats 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/19/2016,10:00am,3B Bellevue Thunder Purple 3rd,3B Bellevue Ice 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/19/2016,11:00am,3B AG Lady Jays 3rd,3B Elkhorn Elite Gold 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,11/19/2016,9:00am,3B Blair White 3rd,3B AL Jr Lynx 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,12/2/2016,5:30pm,3B Gretna Rhoades 3rd,3B Gretna French 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,12/2/2016,6:30pm,3B Bennington Cemer 3rd,3B Blair White 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,12/2/2016,7:30pm,3B Wildcats 3rd,3B Millard West Green 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,12/3/2016,10:00am,3B AL Jr Lynx 3rd,3B AG Lady Jays 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,12/3/2016,11:00am,3B Elkhorn Elite Gold 3rd,3B Bellevue Thunder Purple 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,12/3/2016,9:00am,3B Bellevue Ice 3rd,3B Gretna Hermeling 3rd,3rd Grade Bronze,NE Elite,Court 2
+Fall 2016,10/14/2016,5:30pm,3GS Millard South 3rd,3GS Cardinals 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/15/2016,10:00am,3GS Blair Purple 3rd,3GS OSA Platinum 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/15/2016,11:00am,3GS OSA Gold 3rd,3GS Lady Grizzlies 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/15/2016,9:00am,3GS Bellevue Thunder Gold 3rd,3GS Millard West Black 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/21/2016,5:30pm,3GS Lady Grizzlies 3rd,3GS Millard West Black 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/22/2016,10:00am,3GS Blair Purple 3rd,3GS Bellevue Thunder Gold 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/22/2016,11:00am,3GS OSA Gold 3rd,3GS Millard South 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/22/2016,9:00am,3GS Cardinals 3rd,3GS OSA Platinum 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/28/2016,5:30pm,3GS Blair Purple 3rd,3GS Cardinals 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/29/2016,10:00am,3GS OSA Gold 3rd,3GS Millard West Black 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/29/2016,11:00am,3GS Lady Grizzlies 3rd,3GS OSA Platinum 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/29/2016,9:00am,3GS Millard South 3rd,3GS Bellevue Thunder Gold 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/4/2016,5:30pm,3GS Cardinals 3rd,3GS Lady Grizzlies 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/5/2016,10:00am,3GS Millard West Black 3rd,3GS Blair Purple 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/5/2016,11:00am,3GS OSA Platinum 3rd,3GS Millard South 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/5/2016,9:00am,3GS OSA Platinum 3rd,3GS Bellevue Thunder Gold 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/11/2016,5:30pm,3GS Millard South 3rd,3GS Blair Purple 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/12/2016,10:00am,3GS Cardinals 3rd,3GS OSA Gold 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/12/2016,11:00am,3GS Millard West Black 3rd,3GS Millard South 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/12/2016,9:00am,3GS Bellevue Thunder Gold 3rd,3GS OSA Gold 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/18/2016,5:30pm,3GS Lady Grizzlies 3rd,3GS Millard South 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/19/2016,10:00am,3GS Millard West Black 3rd,3GS OSA Platinum 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/19/2016,11:00am,3GS Blair Purple 3rd,3GS OSA Gold 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/19/2016,9:00am,3GS Cardinals 3rd,3GS Bellevue Thunder Gold 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,12/2/2016,5:30pm,3GS Lady Grizzlies 3rd,3GS Blair Purple 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,12/3/2016,10:00am,3GS Cardinals 3rd,3GS OSA Gold 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,12/3/2016,11:00am,3GS Millard West Black 3rd,3GS OSA Gold 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,12/3/2016,9:00am,3GS Bellevue Thunder Gold 3rd,3GS Lady Grizzlies 3rd,3rd Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/14/2016,6:30pm,4B DC West Swish 3rd/4th,4B Millard West Green 4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/14/2016,7:30pm,4B Roncalli Lady Pride 4th,4B DC West Swish 3rd/4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/15/2016,1:00pm,4B EAA Elkhorn 4th,4B AG Lady Jays Blue,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/15/2016,12:00pm,4B AG Lady Jays White 4th,4B Westside Red 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/15/2016,2:00pm,4B Bellevue Thunder 4th,4B AG Lady Jays White 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/15/2016,3:00pm,4B AL Jr Lynx 4th,4B Elkhorn Elite Blue 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/21/2016,6:30pm,4B Millard West Green 4th,4B AL Jr Lynx 4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/21/2016,7:30pm,4B Elkhorn Elite Blue 4th,4B Bellevue Thunder 4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/22/2016,1:00pm,4B Westside Red 4th,4B Bennington Badgers Anderson 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/22/2016,12:00pm,4B Westside Red 4th,4B AG Lady Jays Blue,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/22/2016,2:00pm,4B DC West Swish 3rd/4th,4B EAA Elkhorn 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/22/2016,3:00pm,4B Bennington Badgers Anderson 4th,4B Roncalli Lady Pride 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/28/2016,6:30pm,4B Elkhorn Elite Blue 4th,4B DC West Swish 3rd/4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/28/2016,7:30pm,4B Bellevue Thunder 4th,4B Westside Red 4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/29/2016,1:00pm,4B AG Lady Jays White 4th,4B AL Jr Lynx 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/29/2016,12:00pm,4B AG Lady Jays Blue,4B Roncalli Lady Pride 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/29/2016,2:00pm,4B DC West Swish 3rd/4th,4B Bennington Badgers Anderson 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/29/2016,3:00pm,4B Millard West Green 4th,4B EAA Elkhorn 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/4/2016,6:30pm,4B Waverly Vikings Harms 4th,4B DC West Swish 3rd/4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/4/2016,7:30pm,4B Waverly Vikings Harms 4th,4B Roncalli Lady Pride 4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/5/2016,1:00pm,4B AG Lady Jays White 4th,4B Millard West Green 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/5/2016,12:00pm,4B EAA Elkhorn 4th,4B Elkhorn Elite Blue 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/5/2016,2:00pm,4B AL Jr Lynx 4th,4B Bellevue Thunder 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/5/2016,3:00pm,4B Millard West Green 4th,4B Bennington Badgers Anderson 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/11/2016,6:30pm,4B Bellevue Thunder 4th,4B Waverly Vikings Harms 4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/11/2016,7:30pm,4B AL Jr Lynx 4th,4B Westside Red 4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/12/2016,1:00pm,4B AG Lady Jays Blue,4B DC West Swish 3rd/4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/12/2016,12:00pm,4B AG Lady Jays White 4th,4B EAA Elkhorn 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/12/2016,2:00pm,4B Elkhorn Elite Blue 4th,4B Roncalli Lady Pride 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/12/2016,3:00pm,4B Bennington Badgers Anderson 4th,4B AG Lady Jays Blue,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/18/2016,6:30pm,4B Waverly Vikings Harms 4th,4B Westside Red 4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/18/2016,7:30pm,4B Waverly Vikings Harms 4th,4B AL Jr Lynx 4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/19/2016,1:00pm,4B Roncalli Lady Pride 4th,4B AG Lady Jays White 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/19/2016,12:00pm,4B Bennington Badgers Anderson 4th,4B Elkhorn Elite Blue 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/19/2016,2:00pm,4B EAA Elkhorn 4th,4B Westside Red 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/19/2016,3:00pm,4B AG Lady Jays Blue,4B Bellevue Thunder 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,12/2/2016,6:30pm,4B Waverly Vikings Harms 4th,4B Millard West Green 4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,12/2/2016,7:30pm,4B Elkhorn Elite Blue 4th,4B Waverly Vikings Harms 4th,4th Grade Bronze,NE Elite,Court 1
+Fall 2016,12/3/2016,1:00pm,4B AG Lady Jays White 4th,4B Bennington Badgers Anderson 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,12/3/2016,12:00pm,4B Bellevue Thunder 4th,4B Roncalli Lady Pride 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,12/3/2016,2:00pm,4B Millard West Green 4th,4B AG Lady Jays Blue,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,12/3/2016,3:00pm,4B AL Jr Lynx 4th,4B EAA Elkhorn 4th,4th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/15/2016,1:00pm,4GS Bennington Badgers Reinoehl 4th,4GS Lady Grizzlies Black 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/15/2016,12:00pm,4GS Gretna Heckenlively 4th,4GS Westside Black 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/15/2016,2:00pm,4GS Blair Purple 4th,4GS Gretna Horak 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/15/2016,3:00pm,4GS Lady Grizzlies Black 4th,4GS Marian Jr Crusaders O'Brien 3rd/4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/15/2016,4:00pm,4GS Roncalli Lady Pride 4th,4GS Elkhorn Elite Gold 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/15/2016,5:00pm,4GS Millard South 4th,4GS Elkhorn Angles 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/15/2016,6:00pm,4GS Elkhorn Elite Gold 4th,4GS Lady Grizzlies Orange 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/15/2016,7:00pm,4GS Elkhorn South Jr Storm 4th,4GS Elkhorn Elite Red 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/22/2016,1:00pm,4GS Elkhorn Elite Red 4th,4GS Blair Purple 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/22/2016,12:00pm,4GS Millard West Black 4th,4GS Roncalli Lady Pride 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/22/2016,2:00pm,4GS Marian Jr Crusaders O'Brien 3rd/4th,4GS Millard West Black 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/22/2016,3:00pm,4GS OSA Gold 4th,4GS Bennington Badgers Reinoehl 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/22/2016,4:00pm,4GS Elkhorn Angles 4th,4GS OSA Gold 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/22/2016,5:00pm,4GS Westside Black 4th,4GS Millard South 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/22/2016,6:00pm,4GS Gretna Horak 4th,4GS Gretna Heckenlively 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/22/2016,7:00pm,4GS Lady Grizzlies Orange 4th,4GS Elkhorn South Jr Storm 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/29/2016,1:00pm,4GS Millard South 4th,4GS Gretna Horak 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/29/2016,12:00pm,4GS Lady Grizzlies Black 4th,4GS Elkhorn Angles 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/29/2016,2:00pm,4GS Elkhorn Elite Gold 4th,4GS Marian Jr Crusaders O'Brien 3rd/4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/29/2016,3:00pm,4GS Millard West Black 4th,4GS Elkhorn Elite Red 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/29/2016,4:00pm,4GS Lady Grizzlies Orange 4th,4GS Roncalli Lady Pride 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/29/2016,5:00pm,4GS Millard West Black 4th,4GS Bennington Badgers Reinoehl 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/29/2016,6:00pm,4GS OSA Gold 4th,4GS Westside Black 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/29/2016,7:00pm,4GS Elkhorn South Jr Storm 4th,4GS Blair Purple 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/5/2016,1:00pm,4GS Millard West Black 4th,4GS Westside Black 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/5/2016,12:00pm,4GS Marian Jr Crusaders O'Brien 3rd/4th,4GS Lady Grizzlies Orange 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/5/2016,2:00pm,4GS Elkhorn Angles 4th,4GS Millard West Black 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/5/2016,3:00pm,4GS Roncalli Lady Pride 4th,4GS Elkhorn South Jr Storm 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/5/2016,4:00pm,4GS Bennington Badgers Reinoehl 4th,4GS Elkhorn Elite Gold 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/5/2016,5:00pm,4GS Blair Purple 4th,4GS Gretna Heckenlively 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/5/2016,6:00pm,4GS Elkhorn Elite Red 4th,4GS Millard South 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/5/2016,7:00pm,4GS Gretna Horak 4th,4GS OSA Gold 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/12/2016,1:00pm,4GS Elkhorn Elite Gold 4th,4GS Elkhorn Angles 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/12/2016,12:00pm,4GS Millard South 4th,4GS Blair Purple 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/12/2016,2:00pm,4GS Lady Grizzlies Orange 4th,4GS Bennington Badgers Reinoehl 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/12/2016,3:00pm,4GS Westside Black 4th,4GS Lady Grizzlies Black 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/12/2016,4:00pm,4GS Elkhorn South Jr Storm 4th,4GS Gretna Heckenlively 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/12/2016,5:00pm,4GS Lady Grizzlies Black 4th,4GS Gretna Horak 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/12/2016,6:00pm,4GS Gretna Heckenlively 4th,4GS Elkhorn Elite Red 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/12/2016,7:00pm,4GS Roncalli Lady Pride 4th,4GS Marian Jr Crusaders O'Brien 3rd/4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/19/2016,1:00pm,4GS Gretna Horak 4th,4GS Millard West Black 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/19/2016,12:00pm,4GS Elkhorn South Jr Storm 4th,4GS Millard South 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/19/2016,2:00pm,4GS Gretna Heckenlively 4th,4GS Millard South 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/19/2016,3:00pm,4GS Blair Purple 4th,4GS OSA Gold 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/19/2016,4:00pm,4GS Elkhorn Elite Red 4th,4GS Lady Grizzlies Black 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/19/2016,5:00pm,4GS Elkhorn Angles 4th,4GS Lady Grizzlies Orange 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/19/2016,6:00pm,4GS Bennington Badgers Reinoehl 4th,4GS Roncalli Lady Pride 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,11/19/2016,7:00pm,4GS Westside Black 4th,4GS Elkhorn Elite Gold 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,12/3/2016,1:00pm,4GS OSA Gold 4th,4GS Elkhorn Elite Red 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,12/3/2016,12:00pm,4GS Marian Jr Crusaders O'Brien 3rd/4th,4GS Elkhorn South Jr Storm 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,12/3/2016,2:00pm,4GS Marian Jr Crusaders O'Brien 3rd/4th,4GS Bennington Badgers Reinoehl 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,12/3/2016,3:00pm,4GS OSA Gold 4th,4GS Gretna Heckenlively 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,12/3/2016,4:00pm,4GS Roncalli Lady Pride 4th,4GS Elkhorn Angles 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,12/3/2016,5:00pm,4GS Elkhorn Elite Gold 4th,4GS Gretna Horak 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,12/3/2016,6:00pm,4GS Lady Grizzlies Orange 4th,4GS Westside Black 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,12/3/2016,7:00pm,4GS Lady Grizzlies Black 4th,4GS Blair Purple 4th,4th Grade Gold/Silver,NE Elite,Court 1
+Fall 2016,10/15/2016,1:00pm,5B CB Pink Panthers B 5th,5B Skutt Skyhawks 5th,5th Grade Bronze,JCC,Court 1
+Fall 2016,10/15/2016,4:00pm,5B Westside White 5th,5B Marian Jr Crusaders Helton 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/15/2016,5:00pm,5B CB Extreme 5th,5B CB Pink Panthers B 5th,5th Grade Bronze,JCC,Court 2
+Fall 2016,10/15/2016,5:00pm,5B Elkhorn Elite White 5th,5B Marian Jr Crusaders Helton 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/15/2016,6:00pm,5B Gretna Whyte 5th,5B Blair White 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/15/2016,7:00pm,5B PLV South Titans Blue 5th,5B Al Jr Lynx 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/15/2016,7:00pm,5B Bennington Badgers McIlnay 5th,5B Westside Red 5th,5th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,8:00pm,5B Elkhorn Elite Black 5th,5B Al Jr Lynx 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/15/2016,8:00pm,5B Millard West Green 5th,5B Gretna Whyte 5th,5th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/22/2016,1:00pm,5B Al Jr Lynx 5th,5B Bennington Badgers McIlnay 5th,5th Grade Bronze,JCC,Court 1
+Fall 2016,10/22/2016,4:00pm,5B Blair White 5th,5B PLV South Titans Blue 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/22/2016,5:00pm,5B Marian Jr Crusaders Helton 5th,5B Millard Dribbling Divas 5th,5th Grade Bronze,JCC,Court 2
+Fall 2016,10/22/2016,5:00pm,5B Gretna Whyte 5th,5B PLV South Titans Blue 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/22/2016,6:00pm,5B Skutt Skyhawks 5th,5B Bennington Badgers Urbanec 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/22/2016,7:00pm,5B Millard West Green 5th,5B Elkhorn Elite Black 5th,5th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,7:00pm,5B Skutt Skyhawks 5th,5B Westside Red 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/22/2016,8:00pm,5B Elkhorn Elite White 5th,5B Millard West White 5th,5th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/22/2016,8:00pm,5B Bennington Badgers Urbanec 5th,5B Westside White 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/29/2016,1:00pm,5B Westside White 5th,5B CB Pink Panthers B 5th,5th Grade Bronze,JCC,Court 1
+Fall 2016,10/29/2016,4:00pm,5B Elkhorn Elite Blue 5th,5B Elkhorn Elite White 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/29/2016,5:00pm,5B Bennington Badgers McIlnay 5th,5B Blair White 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/29/2016,5:00pm,5B Elkhorn Elite Black 5th,5B Marian Jr Crusaders Helton 5th,5th Grade Bronze,JCC,Court 2
+Fall 2016,10/29/2016,6:00pm,5B Elkhorn Elite Blue 5th,5B Millard West Green 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/29/2016,7:00pm,5B CB Extreme 5th,5B Al Jr Lynx 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,10/29/2016,7:00pm,5B PLV South Titans Blue 5th,5B Millard West White 5th,5th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,8:00pm,5B Millard Dribbling Divas 5th,5B Bennington Badgers Urbanec 5th,5th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/29/2016,8:00pm,5B Westside Red 5th,5B CB Extreme 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/5/2016,1:00pm,5B CB Pink Panthers B 5th,5B Westside Red 5th,5th Grade Bronze,JCC,Court 1
+Fall 2016,11/5/2016,4:00pm,5B Elkhorn Elite White 5th,5B Millard West Green 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/5/2016,5:00pm,5B Millard West White 5th,5B Bennington Badgers McIlnay 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/5/2016,5:00pm,5B Millard Dribbling Divas 5th,5B Westside White 5th,5th Grade Bronze,JCC,Court 2
+Fall 2016,11/5/2016,6:00pm,5B Bennington Badgers Urbanec 5th,5B Elkhorn Elite Black 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/5/2016,7:00pm,5B Millard West White 5th,5B Gretna Whyte 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/5/2016,7:00pm,5B Al Jr Lynx 5th,5B Skutt Skyhawks 5th,5th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,8:00pm,5B Blair White 5th,5B CB Extreme 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/5/2016,8:00pm,5B Marian Jr Crusaders Helton 5th,5B Elkhorn Elite Blue 5th,5th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/12/2016,1:00pm,5B Elkhorn Elite Black 5th,5B CB Pink Panthers B 5th,5th Grade Bronze,JCC,Court 1
+Fall 2016,11/12/2016,4:00pm,5B Bennington Badgers McIlnay 5th,5B Gretna Whyte 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/12/2016,5:00pm,5B Millard Dribbling Divas 5th,5B Elkhorn Elite White 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/12/2016,5:00pm,5B Millard West Green 5th,5B PLV South Titans Blue 5th,5th Grade Bronze,JCC,Court 2
+Fall 2016,11/12/2016,6:00pm,5B Elkhorn Elite Blue 5th,5B Bennington Badgers Urbanec 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/12/2016,7:00pm,5B Westside White 5th,5B Al Jr Lynx 5th,5th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,7:00pm,5B Millard Dribbling Divas 5th,5B Westside Red 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/12/2016,8:00pm,5B Skutt Skyhawks 5th,5B Blair White 5th,5th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/12/2016,8:00pm,5B CB Extreme 5th,5B Millard West White 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/19/2016,1:00pm,5B CB Pink Panthers B 5th,5B Elkhorn Elite Blue 5th,5th Grade Bronze,JCC,Court 1
+Fall 2016,11/19/2016,4:00pm,5B Millard West White 5th,5B Skutt Skyhawks 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/19/2016,5:00pm,5B Marian Jr Crusaders Helton 5th,5B Millard West Green 5th,5th Grade Bronze,JCC,Court 2
+Fall 2016,11/19/2016,5:00pm,5B Blair White 5th,5B Westside White 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/19/2016,6:00pm,5B Westside Red 5th,5B Elkhorn Elite Black 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/19/2016,7:00pm,5B Millard Dribbling Divas 5th,5B Blair White 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,11/19/2016,7:00pm,5B Bennington Badgers Urbanec 5th,5B Elkhorn Elite White 5th,5th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,8:00pm,5B PLV South Titans Blue 5th,5B Bennington Badgers McIlnay 5th,5th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/19/2016,8:00pm,5B Gretna Whyte 5th,5B CB Extreme 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,12/3/2016,1:00pm,5B Millard West Green 5th,5B Bennington Badgers McIlnay 5th,5th Grade Bronze,JCC,Court 1
+Fall 2016,12/3/2016,4:00pm,5B Marian Jr Crusaders Helton 5th,5B Bennington Badgers Urbanec 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,12/3/2016,5:00pm,5B Elkhorn Elite White 5th,5B CB Pink Panthers B 5th,5th Grade Bronze,JCC,Court 2
+Fall 2016,12/3/2016,5:00pm,5B Elkhorn Elite Black 5th,5B Elkhorn Elite Blue 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,12/3/2016,6:00pm,5B Skutt Skyhawks 5th,5B Gretna Whyte 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,12/3/2016,7:00pm,5B Westside White 5th,5B Millard West White 5th,5th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,7:00pm,5B Elkhorn Elite Blue 5th,5B Westside Red 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,12/3/2016,8:00pm,5B Al Jr Lynx 5th,5B Millard Dribbling Divas 5th,5th Grade Bronze,NE Elite,Court 2
+Fall 2016,12/3/2016,8:00pm,5B CB Extreme 5th,5B PLV South Titans Blue 5th,5th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/15/2016,10:00am,5G Millard South Red 5th,5G Elkhorn Elite Gold 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,10/15/2016,11:00am,5G Blair Purple 5th,5G Millard West Black 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,10/15/2016,12:00pm,5G Marian Jr Cursaders Bench 5th,5G Millard South Red 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,10/15/2016,9:00am,5G Gretna Rose 5th,5G PLV South Titans Black 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,10/22/2016,10:00am,5G Marian Jr Cursaders Bench 5th,5G Elkhorn Elite Gold 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,10/22/2016,11:00am,5G Millard West Black 5th,5G Elkhorn Elite Gold 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,10/22/2016,12:00pm,5G PLV South Titans Black 5th,5G Blair Purple 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,10/22/2016,9:00am,5G Millard West Black 5th,5G Gretna Rose 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,10/29/2016,11:00am,5G Gretna Rose 5th,5G OSA Platinum 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,10/29/2016,10:00am,5G Millard South Red 5th,5G Millard West Black 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,10/29/2016,12:00pm,5G OSA Platinum 5th,5G Marian Jr Cursaders Bench 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,10/29/2016,9:00am,5G PLV South Titans Black 5th,5G Millard West Black 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,11/5/2016,10:00am,5G Blair Purple 5th,5G Elkhorn Elite Gold 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,11/5/2016,11:00am,5G PLV South Titans Black 5th,5G Marian Jr Cursaders Bench 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,11/5/2016,12:00pm,5G Elkhorn Elite Gold 5th,5G Gretna Rose 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,11/5/2016,9:00am,5G Millard West Black 5th,5G Marian Jr Cursaders Bench 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,11/12/2016,11:00am,5G OSA Platinum 5th,5G Blair Purple 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,11/12/2016,10:00am,5G Millard South Red 5th,5G PLV South Titans Black 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,11/12/2016,12:00pm,5G Blair Purple 5th,5G Millard South Red 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,11/12/2016,9:00am,5G Gretna Rose 5th,5G Marian Jr Cursaders Bench 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,11/19/2016,10:00am,5G PLV South Titans Black 5th,5G OSA Platinum 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,11/19/2016,11:00am,5G Millard South Red 5th,5G Gretna Rose 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,11/19/2016,12:00pm,5G OSA Platinum 5th,5G Millard South Red 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,11/19/2016,9:00am,5G Marian Jr Cursaders Bench 5th,5G Blair Purple 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,12/3/2016,10:00am,5G Elkhorn Elite Gold 5th,5G OSA Platinum 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,12/3/2016,9:00am,5G Blair Purple 5th,5G Gretna Rose 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,12/3/2016,12:00pm,5G Elkhorn Elite Gold 5th,5G PLV South Titans Black 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,12/3/2016,11:00am,5G OSA Platinum 5th,5G Millard West Black 5th,5th Grade Gold,JCC,Court 1
+Fall 2016,10/15/2016,1:00pm,5S AG Lady Jays Blue 5th,5S Harlan Cyclones White 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/15/2016,10:00am,5S OSA Gold 5th,5S Marian Jr Crusaders Fogarty 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/15/2016,11:00am,5S Wahoops 5th,5S Bellevue Thunder 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/15/2016,12:00pm,5S AG Lady Jays White 5th,5S Millard North Silver 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/15/2016,2:00pm,5S Harlan Cyclones Red 5th,5S Millard North Blue 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/15/2016,3:00pm,5S Westside Black 5th,5S Lady Grizzlies Black 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/15/2016,4:00pm,5S CB Pink Panthers S 5th,5S OSA Plattinum 4th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/15/2016,9:00am,5S Millard South White 5th,5S Wahoops 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/22/2016,1:00pm,5S OSA Plattinum 4th,5S AG Lady Jays White 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/22/2016,10:00am,5S Marian Jr Crusaders Fogarty 5th,5S Westside Black 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/22/2016,11:00am,5S AG Lady Jays Blue 5th,5S Harlan Cyclones Red 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/22/2016,12:00pm,5S Westside Black 5th,5S Harlan Cyclones White 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/22/2016,2:00pm,5S AG Lady Jays White 5th,5S Lady Grizzlies Black 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/22/2016,3:00pm,5S Elkhorn Elite Red 5th,5S Millard South White 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/22/2016,4:00pm,5S Millard North Blue 5th,5S Elkhorn Elite Red 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/22/2016,9:00am,5S Millard North Silver 5th,5S OSA Gold 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/29/2016,1:00pm,5S Elkhorn Elite Red 5th,5S AG Lady Jays Blue 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/29/2016,10:00am,5S Harlan Cyclones Red 5th,5S OSA Plattinum 4th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/29/2016,11:00am,5S Harlan Cyclones White 5th,5S OSA Gold 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/29/2016,12:00pm,5S CB Pink Panthers S 5th,5S Marian Jr Crusaders Fogarty 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/29/2016,2:00pm,5S Lady Grizzlies Black 5th,5S CB Pink Panthers S 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/29/2016,3:00pm,5S Bellevue Thunder 5th,5S Millard North Silver 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/29/2016,4:00pm,5S Bellevue Thunder 5th,5S Millard South White 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/29/2016,9:00am,5S Wahoops 5th,5S Millard North Blue 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/5/2016,1:00pm,5S Millard North Blue 5th,5S Bellevue Thunder 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/5/2016,10:00am,5S OSA Gold 5th,5S Westside Black 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/5/2016,11:00am,5S Lady Grizzlies Black 5th,5S Harlan Cyclones Red 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/5/2016,12:00pm,5S Harlan Cyclones White 5th,5S CB Pink Panthers S 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/5/2016,2:00pm,5S AG Lady Jays Blue 5th,5S Wahoops 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/5/2016,3:00pm,5S Marian Jr Crusaders Fogarty 5th,5S AG Lady Jays White 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/5/2016,4:00pm,5S OSA Plattinum 4th,5S Elkhorn Elite Red 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/5/2016,9:00am,5S Millard South White 5th,5S Millard North Silver 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/12/2016,1:00pm,5S Millard South White 5th,5S Millard North Blue 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/12/2016,10:00am,5S Bellevue Thunder 5th,5S AG Lady Jays Blue 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/12/2016,11:00am,5S AG Lady Jays White 5th,5S Harlan Cyclones White 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/12/2016,12:00pm,5S Harlan Cyclones Red 5th,5S Marian Jr Crusaders Fogarty 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/12/2016,2:00pm,5S CB Pink Panthers S 5th,5S OSA Gold 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/12/2016,3:00pm,5S Elkhorn Elite Red 5th,5S Lady Grizzlies Black 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/12/2016,4:00pm,5S Lady Grizzlies Black 5th,5S Wahoops 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/12/2016,9:00am,5S Millard North Silver 5th,5S Westside Black 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/19/2016,1:00pm,5S Harlan Cyclones Red 5th,5S Millard North Silver 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/19/2016,10:00am,5S OSA Plattinum 4th,5S Bellevue Thunder 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/19/2016,11:00am,5S Wahoops 5th,5S OSA Plattinum 4th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/19/2016,12:00pm,5S Westside Black 5th,5S CB Pink Panthers S 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/19/2016,2:00pm,5S Harlan Cyclones White 5th,5S Millard North Blue 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/19/2016,3:00pm,5S OSA Gold 5th,5S AG Lady Jays White 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/19/2016,4:00pm,5S AG Lady Jays Blue 5th,5S Millard South White 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,11/19/2016,9:00am,5S Marian Jr Crusaders Fogarty 5th,5S Elkhorn Elite Red 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,12/3/2016,1:00pm,5S Millard South White 5th,5S OSA Plattinum 4th,5th Grade Silver,JCC,Court 2
+Fall 2016,12/3/2016,10:00am,5S Bellevue Thunder 5th,5S Lady Grizzlies Black 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,12/3/2016,11:00am,5S Millard North Blue 5th,5S AG Lady Jays Blue 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,12/3/2016,12:00pm,5S AG Lady Jays White 5th,5S Westside Black 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,12/3/2016,2:00pm,5S Harlan Cyclones Red 5th,5S OSA Gold 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,12/3/2016,3:00pm,5S Elkhorn Elite Red 5th,5S Harlan Cyclones White 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,12/3/2016,4:00pm,5S Millard North Silver 5th,5S CB Pink Panthers S 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,12/3/2016,9:00am,5S Wahoops 5th,5S Marian Jr Crusaders Fogarty 5th,5th Grade Silver,JCC,Court 2
+Fall 2016,10/15/2016,1:00pm,6B Bellevue Thunder 6th,6B Bennington Badgers Dick 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,10:00am,6B Elkhorn Elite Blue 6th,6B AL Jr Lynx 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,11:00am,6B Elkhorn Elite Scarlet 6th,6B Elkhorn Elite Black 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,12:00pm,6B Elkhorn Elite Blue 6th,6B Westside Red 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,2:00pm,6B Westside Red 6th,6B Blair White 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,3:00pm,6B Gretna Martin 6th,6B Wahoops Yellow 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,4:00pm,6B Marian Jr. Crusaders Pick 6th,6B Millard West White 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,5:00pm,6B Fremont Elite Hilgenkamp 6th,6B PLV South Titans Blue 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,6:00pm,6B Elkhorn Elite White 6th,6B Shooting Stars 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,8:00am,6B DC West Swish 23/24 6th,6B Millard West Grey 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,9:00am,6B Millard North Silver 6th,6B Bennington Badgers Ossenkop 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,1:00pm,6B Bellevue Thunder 6th,6B Elkhorn Elite Blue 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,10:00am,6B PLV South Titans Blue 6th,6B Thunder 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,11:00am,6B Wahoops Yellow 6th,6B Marian Jr. Crusaders Pick 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,12:00pm,6B Millard West Grey 6th,6B Millard North Silver 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,2:00pm,6B Millard West White 6th,6B DC West Swish 23/24 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,3:00pm,6B Elkhorn Elite Black 6th,6B Fremont Elite Hilgenkamp 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,4:00pm,6B Bennington Badgers Ossenkop 6th,6B Elkhorn Elite White 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,5:00pm,6B Blair White 6th,6B Gretna Martin 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,6:00pm,6B AL Jr Lynx 6th,6B Harlan Cyclones 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,8:00am,6B Shooting Stars 6th,6B Elkhorn Elite Scarlet 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,9:00am,6B Bennington Badgers Dick 6th,6B Westside Red 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,1:00pm,6B Millard North Silver 6th,6B Millard West White 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,10:00am,6B Fremont Elite Hilgenkamp 6th,6B Shooting Stars 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,11:00am,6B Gretna Martin 6th,6B Bennington Badgers Dick 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,12:00pm,6B Elkhorn Elite White 6th,6B Elkhorn Elite Scarlet 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,2:00pm,6B AL Jr Lynx 6th,6B PLV South Titans Blue 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,3:00pm,6B Westside Red 6th,6B Harlan Cyclones 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,4:00pm,6B Thunder 6th,6B Elkhorn Elite Black 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,5:00pm,6B Harlan Cyclones 6th,6B Bellevue Thunder 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,6:00pm,6B Marian Jr. Crusaders Pick 6th,6B Blair White 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,8:00am,6B Bennington Badgers Ossenkop 6th,6B Millard West Grey 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,9:00am,6B DC West Swish 23/24 6th,6B Wahoops Yellow 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,1:00pm,6B Millard West Grey 6th,6B Elkhorn Elite White 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,10:00am,6B Shooting Stars 6th,6B Thunder 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,11:00am,6B Millard West White 6th,6B Bennington Badgers Ossenkop 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,12:00pm,6B Thunder 6th,6B Elkhorn Elite Blue 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,2:00pm,6B Bennington Badgers Dick 6th,6B Marian Jr. Crusaders Pick 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,3:00pm,6B Wahoops Yellow 6th,6B Millard North Silver 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,4:00pm,6B Bellevue Thunder 6th,6B Elkhorn Elite Scarlet 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,5:00pm,6B Blair White 6th,6B DC West Swish 23/24 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,6:00pm,6B Elkhorn Elite Scarlet 6th,6B Fremont Elite Hilgenkamp 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,8:00am,6B Elkhorn Elite Black 6th,6B AL Jr Lynx 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,9:00am,6B Gretna Martin 6th,6B Elkhorn Elite Black 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,1:00pm,6B DC West Swish 23/24 6th,6B Bennington Badgers Dick 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,10:00am,6B Bennington Badgers Ossenkop 6th,6B Wahoops Yellow 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,11:00am,6B Westside Red 6th,6B PLV South Titans Blue 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,12:00pm,6B Millard West White 6th,6B Elkhorn Elite White 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,2:00pm,6B Elkhorn Elite White 6th,6B Fremont Elite Hilgenkamp 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,3:00pm,6B AL Jr Lynx 6th,6B Shooting Stars 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,4:00pm,6B Millard North Silver 6th,6B Blair White 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,5:00pm,6B Thunder 6th,6B Elkhorn Elite Scarlet 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,6:00pm,6B Elkhorn Elite Blue 6th,6B Marian Jr. Crusaders Pick 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,8:00am,6B Gretna Martin 6th,6B Elkhorn Elite Blue 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,9:00am,6B Bellevue Thunder 6th,6B Elkhorn Elite Black 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,1:00pm,6B Millard West White 6th,6B Gretna Martin 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,10:00am,6B Elkhorn Elite Black 6th,6B Westside Red 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,11:00am,6B Shooting Stars 6th,6B Bellevue Thunder 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,12:00pm,6B Blair White 6th,6B Bennington Badgers Ossenkop 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,2:00pm,6B Fremont Elite Hilgenkamp 6th,6B Thunder 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,3:00pm,6B Millard West White 6th,6B Wahoops Yellow 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,4:00pm,6B Marian Jr. Crusaders Pick 6th,6B Harlan Cyclones 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,5:00pm,6B Bennington Badgers Dick 6th,6B Millard North Silver 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,6:00pm,6B Harlan Cyclones 6th,6B DC West Swish 23/24 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,8:00am,6B Millard West Grey 6th,6B PLV South Titans Blue 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,9:00am,6B Elkhorn Elite Scarlet 6th,6B AL Jr Lynx 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,1:00pm,6B Marian Jr. Crusaders Pick 6th,6B PLV South Titans Blue 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,10:00am,6B DC West Swish 23/24 6th,6B Elkhorn Elite Blue 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,11:00am,6B PLV South Titans Blue 6th,6B Bellevue Thunder 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,12:00pm,6B Harlan Cyclones 6th,6B Gretna Martin 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,2:00pm,6B Millard North Silver 6th,6B Harlan Cyclones 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,3:00pm,6B Millard West Grey 6th,6B Blair White 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,4:00pm,6B AL Jr Lynx 6th,6B Fremont Elite Hilgenkamp 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,5:00pm,6B Wahoops Yellow 6th,6B Millard West Grey 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,6:00pm,6B Westside Red 6th,6B Shooting Stars 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,8:00am,6B Bennington Badgers Ossenkop 6th,6B Bennington Badgers Dick 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,9:00am,6B Elkhorn Elite White 6th,6B Thunder 6th,6th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,1:00pm,6GS Millard South 6th,6GS OSA Platinum 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/15/2016,10:00am,6GS Bennington Badgers Gansebom 6th,6GS Elkhorn Elite Red 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/15/2016,11:00am,6GS Elkhorn Elite Gold 6th,6GS 51/ers 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/15/2016,12:00pm,6GS Marian Jr Crusaders Behrens 6th,6GS Bennington Badgers Gansebom 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/15/2016,2:00pm,6GS Lady Grizzlies Black 6th,6GS Lady Grizzlies Orange 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/15/2016,3:00pm,6GS Gretna Kastens 6th,6GS Fremont Elite Black 5th/6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/15/2016,4:00pm,6GS OSA Gold 6th,6GS Wahoops Blue 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/15/2016,5:00pm,6GS Westside Black 6th,6GS OSA Gold 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/15/2016,6:00pm,6GS AG Lady Jays 6th,6GS Marian Jr Crusaders McGee 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/15/2016,8:00am,6GS Elkhorn Elite Red 6th,6GS Omaha Crush 5th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/15/2016,9:00am,6GS Wahoo Mayberry 6th,6GS Lincoln Huskies 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/22/2016,1:00pm,6GS Fremont Elite Black 5th/6th,6GS Blair Purple 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/22/2016,10:00am,6GS Wahoops Blue 6th,6GS Elkhorn Elite Gold 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/22/2016,11:00am,6GS Marian Jr Crusaders McGee 6th,6GS Gretna Kastens 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/22/2016,12:00pm,6GS Blair Purple 6th,6GS Westside Black 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/22/2016,2:00pm,6GS OSA Platinum 6th,6GS Lady Grizzlies Black 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/22/2016,3:00pm,6GS Millard West Green 6th,6GS Marian Jr Crusaders Behrens 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/22/2016,4:00pm,6GS Wahoo Mayberry 6th,6GS OSA Platinum 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/22/2016,5:00pm,6GS 51/ers 6th,6GS Millard West Green 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/22/2016,6:00pm,6GS Lincoln Huskies 6th,6GS AG Lady Jays 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/22/2016,8:00am,6GS Marian Jr. Crusaders Long 6th,6GS Millard South 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/22/2016,9:00am,6GS Marian Jr. Crusaders Long 6th,6GS Gretna Kastens 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/29/2016,1:00pm,6GS Bennington Badgers Gansebom 6th,6GS 51/ers 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/29/2016,10:00am,6GS Millard West Green 6th,6GS Wahoops Blue 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/29/2016,11:00am,6GS Lady Grizzlies Orange 6th,6GS Wahoo Mayberry 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/29/2016,12:00pm,6GS Blair Purple 6th,6GS Marian Jr Crusaders McGee 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/29/2016,2:00pm,6GS OSA Gold 6th,6GS Gretna Kastens 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/29/2016,3:00pm,6GS Elkhorn Elite Gold 6th,6GS Westside Black 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/29/2016,4:00pm,6GS OSA Platinum 6th,6GS Lincoln Huskies 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/29/2016,5:00pm,6GS OSA Platinum 6th,6GS AG Lady Jays 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/29/2016,6:00pm,6GS Omaha Crush 5th,6GS Millard South 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/29/2016,8:00am,6GS Lady Grizzlies Black 6th,6GS Marian Jr. Crusaders Long 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/29/2016,9:00am,6GS Elkhorn Elite Red 6th,6GS Marian Jr Crusaders Behrens 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/5/2016,1:00pm,6GS Millard West Green 6th,6GS Fremont Elite Black 5th/6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/5/2016,10:00am,6GS Marian Jr Crusaders Behrens 6th,6GS 51/ers 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/5/2016,11:00am,6GS Lincoln Huskies 6th,6GS Blair Purple 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/5/2016,12:00pm,6GS Marian Jr Crusaders McGee 6th,6GS OSA Gold 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/5/2016,2:00pm,6GS Westside Black 6th,6GS Millard West Green 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/5/2016,3:00pm,6GS Millard South 6th,6GS Lady Grizzlies Black 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/5/2016,4:00pm,6GS Wahoops Blue 6th,6GS Bennington Badgers Gansebom 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/5/2016,5:00pm,6GS Lady Grizzlies Orange 6th,6GS Gretna Kastens 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/5/2016,6:00pm,6GS AG Lady Jays 6th,6GS Lady Grizzlies Orange 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/5/2016,8:00am,6GS 51/ers 6th,6GS Elkhorn Elite Red 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/5/2016,9:00am,6GS Marian Jr. Crusaders Long 6th,6GS Wahoo Mayberry 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/12/2016,1:00pm,6GS Fremont Elite Black 5th/6th,6GS Elkhorn Elite Gold 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/12/2016,10:00am,6GS OSA Gold 6th,6GS Lincoln Huskies 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/12/2016,11:00am,6GS Bennington Badgers Gansebom 6th,6GS Westside Black 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/12/2016,12:00pm,6GS Wahoo Mayberry 6th,6GS Millard South 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/12/2016,2:00pm,6GS Blair Purple 6th,6GS Lady Grizzlies Orange 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/12/2016,3:00pm,6GS Elkhorn Elite Gold 6th,6GS Marian Jr Crusaders McGee 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/12/2016,4:00pm,6GS Omaha Crush 5th,6GS Lady Grizzlies Black 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/12/2016,5:00pm,6GS Gretna Kastens 6th,6GS OSA Platinum 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/12/2016,6:00pm,6GS Marian Jr Crusaders Behrens 6th,6GS Omaha Crush 5th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/12/2016,8:00am,6GS AG Lady Jays 6th,6GS Marian Jr. Crusaders Long 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/12/2016,9:00am,6GS Elkhorn Elite Red 6th,6GS Wahoops Blue 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/19/2016,1:00pm,6GS Lady Grizzlies Black 6th,6GS Wahoo Mayberry 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/19/2016,10:00am,6GS Gretna Kastens 6th,6GS Millard South 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/19/2016,11:00am,6GS 51/ers 6th,6GS Omaha Crush 5th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/19/2016,12:00pm,6GS Millard South 6th,6GS AG Lady Jays 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/19/2016,2:00pm,6GS OSA Platinum 6th,6GS Blair Purple 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/19/2016,3:00pm,6GS OSA Gold 6th,6GS Fremont Elite Black 5th/6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/19/2016,4:00pm,6GS Wahoops Blue 6th,6GS Marian Jr Crusaders Behrens 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/19/2016,5:00pm,6GS Fremont Elite Black 5th/6th,6GS Bennington Badgers Gansebom 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/19/2016,6:00pm,6GS Bennington Badgers Gansebom 6th,6GS Marian Jr Crusaders McGee 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/19/2016,8:00am,6GS Westside Black 6th,6GS Elkhorn Elite Red 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,11/19/2016,9:00am,6GS Omaha Crush 5th,6GS Marian Jr. Crusaders Long 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,12/3/2016,1:00pm,6GS Elkhorn Elite Gold 6th,6GS Lady Grizzlies Orange 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,12/3/2016,10:00am,6GS Omaha Crush 5th,6GS Wahoo Mayberry 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,12/3/2016,11:00am,6GS Lady Grizzlies Orange 6th,6GS OSA Gold 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,12/3/2016,12:00pm,6GS Marian Jr Crusaders Behrens 6th,6GS Westside Black 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,12/3/2016,2:00pm,6GS Lincoln Huskies 6th,6GS Elkhorn Elite Gold 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,12/3/2016,3:00pm,6GS Millard West Green 6th,6GS Lincoln Huskies 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,12/3/2016,4:00pm,6GS 51/ers 6th,6GS Wahoops Blue 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,12/3/2016,5:00pm,6GS Marian Jr Crusaders McGee 6th,6GS Millard West Green 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,12/3/2016,6:00pm,6GS Elkhorn Elite Red 6th,6GS Fremont Elite Black 5th/6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,12/3/2016,8:00am,6GS Blair Purple 6th,6GS Marian Jr. Crusaders Long 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,12/3/2016,9:00am,6GS AG Lady Jays 6th,6GS Lady Grizzlies Black 6th,6th Grade Gold/Silver,ERMS,Court 1
+Fall 2016,10/15/2016,8:00pm,7B Skutt Green 7th,7B Bennington Badgers Thompson 7th,7th Grade Bronze,ERMS,Court 2
+Fall 2016,10/16/2016,1:00pm,7B AG Lady Jays 7th,7B Millard West Green 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/16/2016,10:00am,7B Elkhorn Elite White 7th,7B OSA White 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/16/2016,11:00am,7B Platteview Jr Trojans 7th,7B Millard West Green 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/16/2016,12:00pm,7B Fury 7th,7B Council Bluffs LC Titans 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/16/2016,2:00pm,7B Fremont Eite Rensch 7th,7B Gretna Martin 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/16/2016,3:00pm,7B Fremont Eite Rensch 7th,7B Westside Red 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/16/2016,5:00pm,7B Marian Jr Crusaders Schinco 7th,7B Bellevue Ice White 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/16/2016,9:00am,7B Millard North Blue 7th,7B Westside White 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/22/2016,8:00pm,7B Gretna Martin 7th,7B Skutt Green 7th,7th Grade Bronze,ERMS,Court 2
+Fall 2016,10/23/2016,1:00pm,7B Bennington Badgers Thompson 7th,7B AG Lady Jays 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/23/2016,10:00am,7B Millard West Green 7th,7B Marian Jr Crusaders Schinco 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/23/2016,11:00am,7B OSA White 7th,7B Fury 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/23/2016,12:00pm,7B Council Bluffs LC Titans 7th,7B Elkhorn Elite White 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/23/2016,2:00pm,7B Westside Red 7th,7B Elkhorn Elite White 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/23/2016,3:00pm,7B Fremont Eite Rensch 7th,7B Westside White 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/23/2016,5:00pm,7B Bellevue Ice White 7th,7B Millard North Blue 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/23/2016,9:00am,7B Platteview Jr Trojans 7th,7B Marian Jr Crusaders Schinco 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/29/2016,8:00pm,7B Fury 7th,7B Westside White 7th,7th Grade Bronze,ERMS,Court 2
+Fall 2016,10/30/2016,1:00pm,7B Lincoln Ambassadors Blue 7th,7B Bennington Badgers Thompson 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/30/2016,10:00am,7B Marian Jr Crusaders Schinco 7th,7B Millard North Blue 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/30/2016,11:00am,7B Fremont Eite Rensch 7th,7B Council Bluffs LC Titans 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/30/2016,12:00pm,7B AG Lady Jays 7th,7B Gretna Martin 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/30/2016,2:00pm,7B Lincoln Ambassadors Blue 7th,7B Platteview Jr Trojans 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/30/2016,3:00pm,7B Tekamah Herman 7th,7B OSA White 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/30/2016,5:00pm,7B Tekamah Herman 7th,7B Bellevue Ice White 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/30/2016,9:00am,7B Skutt Green 7th,7B Westside Red 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/5/2016,8:00pm,7B Westside White 7th,7B Elkhorn Elite White 7th,7th Grade Bronze,ERMS,Court 2
+Fall 2016,11/6/2016,1:00pm,7B Millard West Green 7th,7B Bennington Badgers Thompson 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/6/2016,10:00am,7B Millard North Blue 7th,7B Tekamah Herman 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/6/2016,11:00am,7B OSA White 7th,7B Fremont Eite Rensch 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/6/2016,12:00pm,7B Westside Red 7th,7B AG Lady Jays 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/6/2016,2:00pm,7B Millard West Green 7th,7B Lincoln Ambassadors Blue 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/6/2016,3:00pm,7B Gretna Martin 7th,7B Lincoln Ambassadors Blue 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/6/2016,5:00pm,7B Bellevue Ice White 7th,7B Fury 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/6/2016,9:00am,7B Council Bluffs LC Titans 7th,7B Skutt Green 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/12/2016,8:00pm,7B Fury 7th,7B Millard North Blue 7th,7th Grade Bronze,ERMS,Court 2
+Fall 2016,11/13/2016,1:00pm,7B Lincoln Ambassadors Blue 7th,7B Westside Red 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/13/2016,10:00am,7B Platteview Jr Trojans 7th,7B Gretna Martin 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/13/2016,11:00am,7B Westside White 7th,7B Tekamah Herman 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/13/2016,12:00pm,7B Bennington Badgers Thompson 7th,7B Platteview Jr Trojans 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/13/2016,2:00pm,7B Lincoln Ambassadors Blue 7th,7B Council Bluffs LC Titans 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/13/2016,3:00pm,7B Marian Jr Crusaders Schinco 7th,7B Tekamah Herman 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/13/2016,5:00pm,7B Elkhorn Elite White 7th,7B Bellevue Ice White 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/13/2016,9:00am,7B Westside White 7th,7B Skutt Green 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/19/2016,8:00pm,7B Westside Red 7th,7B Platteview Jr Trojans 7th,7th Grade Bronze,ERMS,Court 2
+Fall 2016,11/20/2016,1:00pm,7B Marian Jr Crusaders Schinco 7th,7B Fury 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/20/2016,10:00am,7B Millard North Blue 7th,7B Elkhorn Elite White 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/20/2016,11:00am,7B OSA White 7th,7B AG Lady Jays 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/20/2016,12:00pm,7B Council Bluffs LC Titans 7th,7B AG Lady Jays 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/20/2016,2:00pm,7B Bennington Badgers Thompson 7th,7B Gretna Martin 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/20/2016,3:00pm,7B Tekamah Herman 7th,7B Fury 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/20/2016,5:00pm,7B Bellevue Ice White 7th,7B Fremont Eite Rensch 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,11/20/2016,9:00am,7B OSA White 7th,7B Skutt Green 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,12/3/2016,8:00pm,7B Lincoln Ambassadors Blue 7th,7B OSA White 7th,7th Grade Bronze,ERMS,Court 2
+Fall 2016,12/4/2016,1:00pm,7B AG Lady Jays 7th,7B Westside White 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,12/4/2016,10:00am,7B Elkhorn Elite White 7th,7B Tekamah Herman 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,12/4/2016,11:00am,7B Gretna Martin 7th,7B Millard West Green 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,12/4/2016,12:00pm,7B Fremont Eite Rensch 7th,7B Millard North Blue 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,12/4/2016,2:00pm,7B Platteview Jr Trojans 7th,7B Council Bluffs LC Titans 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,12/4/2016,3:00pm,7B Bennington Badgers Thompson 7th,7B Marian Jr Crusaders Schinco 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,12/4/2016,5:00pm,7B Skutt Green 7th,7B Bellevue Ice White 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,12/4/2016,9:00am,7B Millard West Green 7th,7B Westside Red 7th,7th Grade Bronze,NE Elite,Court 1
+Fall 2016,10/16/2016,1:00pm,7S Westside Black 7th,7S Lady Grizzlies Orange 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/16/2016,10:00am,7S Glenwood 7th,7S Nebraska Lasers Purple 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/16/2016,11:00am,7S DC West Swish 22 7th,7S Millard North Silver 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/16/2016,11:00am,7S Skutt 7th,7S Millard West Black 6th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/16/2016,12:00pm,7S Glenwood 7th,7S OSA Black 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/16/2016,12:00pm,7S Marian Jr Cursaders Hoffman 7th,7S Westpoint GACC 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/16/2016,2:00pm,7S Westpoint GACC 7th,7S Council Bluffs LC Titans 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/16/2016,3:00pm,7S Bellevue Ice Purple 7th,7S Louisville Lions 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/16/2016,4:00pm,7S Millard North Silver 7th,7S Bellevue Ice Purple 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/16/2016,4:00pm,7S Millard West Black 7th,7S Millard South 7th,7th Grade Silver,NE Elite,Court 1
+Fall 2016,10/16/2016,8:00am,7S Blair Purple 7th,7S Elkhorn Elite Blue 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/16/2016,9:00am,7S Nebraska Lasers Purple 7th,7S Millard West Black 6th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/23/2016,1:00pm,7S Elkhorn Elite Blue 7th,7S Skutt 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/23/2016,10:00am,7S Nebraska Lasers Purple 7th,7S Harlan Cyclones Black 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/23/2016,11:00am,7S Council Bluffs LC Titans 7th,7S Harlan Cyclones Red 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/23/2016,11:00am,7S Fremont Elite Kinning 7th,7S Westside Black 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/23/2016,12:00pm,7S OSA Black 7th,7S Harlan Cyclones Black 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/23/2016,12:00pm,7S Harlan Cyclones Red 7th,7S Lady Grizzlies Orange 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/23/2016,2:00pm,7S Millard West Black 6th,7S Lincoln Ambassadors Gold 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/23/2016,3:00pm,7S Elkhorn Elite Red 7th,7S North Bend 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/23/2016,4:00pm,7S Marian Jr Cursaders Hoffman 7th,7S Elkhorn Elite Red 7th,7th Grade Silver,NE Elite,Court 1
+Fall 2016,10/23/2016,4:00pm,7S Louisville Lions 7th,7S North Bend 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/23/2016,8:00am,7S Millard West Black 7th,7S DC West Swish 22 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/23/2016,9:00am,7S Nebraska Lasers Purple 7th,7S Millard West Black 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/30/2016,1:00pm,7S Westpoint GACC 7th,7S Fremont Elite Kinning 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/30/2016,10:00am,7S Lincoln Ambassadors Gold 7th,7S Nebraska Lasers Purple 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/30/2016,11:00am,7S Lincoln Ambassadors Gold 7th,7S Elkhorn Elite Blue 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/30/2016,11:00am,7S Blair Purple 7th,7S Glenwood 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/30/2016,12:00pm,7S Nebraska Lasers Purple 7th,7S Council Bluffs LC Titans 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/30/2016,12:00pm,7S Westside Black 7th,7S Millard West Black 6th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/30/2016,2:00pm,7S North Bend 7th,7S Millard South 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/30/2016,3:00pm,7S Lady Grizzlies Orange 7th,7S Westpoint GACC 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/30/2016,4:00pm,7S Millard South 7th,7S Bellevue Ice Purple 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,10/30/2016,4:00pm,7S Louisville Lions 7th,7S DC West Swish 22 7th,7th Grade Silver,NE Elite,Court 1
+Fall 2016,10/30/2016,8:00am,7S Marian Jr Cursaders Hoffman 7th,7S Millard West Black 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/30/2016,9:00am,7S Millard West Black 7th,7S Millard North Silver 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/6/2016,1:00pm,7S Fremont Elite Kinning 7th,7S Harlan Cyclones Red 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/6/2016,10:00am,7S Harlan Cyclones Black 7th,7S Millard West Black 6th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/6/2016,11:00am,7S Harlan Cyclones Black 7th,7S Lincoln Ambassadors Gold 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/6/2016,11:00am,7S Millard North Silver 7th,7S Louisville Lions 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/6/2016,12:00pm,7S Council Bluffs LC Titans 7th,7S Lincoln Ambassadors Gold 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/6/2016,12:00pm,7S Millard North Silver 7th,7S Millard South 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/6/2016,2:00pm,7S Millard South 7th,7S Marian Jr Cursaders Hoffman 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/6/2016,3:00pm,7S North Bend 7th,7S Westside Black 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/6/2016,4:00pm,7S Lady Grizzlies Orange 7th,7S OSA Black 7th,7th Grade Silver,NE Elite,Court 1
+Fall 2016,11/6/2016,4:00pm,7S Bellevue Ice Purple 7th,7S Westside Black 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/6/2016,8:00am,7S Millard West Black 6th,7S Glenwood 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/6/2016,9:00am,7S Elkhorn Elite Blue 7th,7S Nebraska Lasers Purple 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/13/2016,1:00pm,7S DC West Swish 22 7th,7S Millard South 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/13/2016,10:00am,7S Blair Purple 7th,7S Lady Grizzlies Orange 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/13/2016,11:00am,7S Blair Purple 7th,7S Council Bluffs LC Titans 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/13/2016,11:00am,7S Millard West Black 6th,7S Elkhorn Elite Blue 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/13/2016,12:00pm,7S Skutt 7th,7S Council Bluffs LC Titans 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/13/2016,12:00pm,7S Westpoint GACC 7th,7S North Bend 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/13/2016,2:00pm,7S Louisville Lions 7th,7S Millard South 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/13/2016,3:00pm,7S DC West Swish 22 7th,7S Elkhorn Elite Red 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/13/2016,4:00pm,7S Bellevue Ice Purple 7th,7S Elkhorn Elite Red 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/13/2016,4:00pm,7S Lincoln Ambassadors Gold 7th,7S Glenwood 7th,7th Grade Silver,NE Elite,Court 1
+Fall 2016,11/13/2016,8:00am,7S Marian Jr Cursaders Hoffman 7th,7S OSA Black 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/13/2016,9:00am,7S Fremont Elite Kinning 7th,7S OSA Black 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/20/2016,1:00pm,7S Elkhorn Elite Blue 7th,7S Millard West Black 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/20/2016,10:00am,7S Harlan Cyclones Black 7th,7S Blair Purple 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/20/2016,11:00am,7S Fremont Elite Kinning 7th,7S Blair Purple 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/20/2016,11:00am,7S Millard North Silver 7th,7S Elkhorn Elite Red 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/20/2016,12:00pm,7S Fremont Elite Kinning 7th,7S Elkhorn Elite Red 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/20/2016,12:00pm,7S Louisville Lions 7th,7S Millard West Black 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/20/2016,2:00pm,7S Harlan Cyclones Red 7th,7S Glenwood 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/20/2016,3:00pm,7S DC West Swish 22 7th,7S Westpoint GACC 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/20/2016,4:00pm,7S Harlan Cyclones Red 7th,7S Marian Jr Cursaders Hoffman 7th,7th Grade Silver,NE Elite,Court 1
+Fall 2016,11/20/2016,4:00pm,7S Bellevue Ice Purple 7th,7S Westpoint GACC 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,11/20/2016,8:00am,7S Lady Grizzlies Orange 7th,7S Skutt 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,11/20/2016,9:00am,7S Harlan Cyclones Black 7th,7S Skutt 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,12/4/2016,1:00pm,7S OSA Black 7th,7S Council Bluffs LC Titans 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,12/4/2016,10:00am,7S Westside Black 7th,7S Millard North Silver 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,12/4/2016,11:00am,7S Lincoln Ambassadors Gold 7th,7S Lady Grizzlies Orange 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,12/4/2016,11:00am,7S Glenwood 7th,7S Skutt 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,12/4/2016,12:00pm,7S Skutt 7th,7S Fremont Elite Kinning 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,12/4/2016,12:00pm,7S Elkhorn Elite Red 7th,7S Louisville Lions 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,12/4/2016,2:00pm,7S North Bend 7th,7S Harlan Cyclones Red 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,12/4/2016,3:00pm,7S North Bend 7th,7S OSA Black 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,12/4/2016,4:00pm,7S Harlan Cyclones Red 7th,7S Bellevue Ice Purple 7th,7th Grade Silver,NE Elite,Court 2
+Fall 2016,12/4/2016,4:00pm,7S Elkhorn Elite Blue 7th,7S Harlan Cyclones Black 7th,7th Grade Silver,NE Elite,Court 1
+Fall 2016,12/4/2016,8:00am,7S DC West Swish 22 7th,7S Westside Black 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,12/4/2016,9:00am,7S Blair Purple 7th,7S Marian Jr Cursaders Hoffman 7th,7th Grade Silver,ERMS,Court 1
+Fall 2016,10/15/2016,7:00pm,8B DC West Swish 21 8th,8B AG Lady Jays Grey 8th,8th Grade Bronze,ERMS,Court 1
+Fall 2016,10/16/2016,10:00am,8B OSA Black 8th,8B Elkhorn Elite Blue 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,10/16/2016,11:00am,8B AL Jr Lynx 8th,8B Millard West Green 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,10/16/2016,8:00am,8B Skutt Green 8th,8B Platteview Jr Trojans 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,10/16/2016,9:00am,8B Skutt Green 8th,8B Westside White 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,10/22/2016,7:00pm,8B AG Lady Jays Grey 8th,8B Westside White 8th,8th Grade Bronze,ERMS,Court 1
+Fall 2016,10/23/2016,10:00am,8B Platteview Jr Trojans 8th,8B Elkhorn Elite Red 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,10/23/2016,11:00am,8B Elkhorn Elite Blue 8th,8B AL Jr Lynx 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,10/23/2016,8:00am,8B OSA Black 8th,8B Elkhorn Elite Red 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,10/23/2016,9:00am,8B Millard West Green 8th,8B DC West Swish 21 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,10/29/2016,7:00pm,8B Westside White 8th,8B Millard West Green 8th,8th Grade Bronze,ERMS,Court 1
+Fall 2016,10/30/2016,10:00am,8B Skutt Green 8th,8B Elkhorn Elite Red 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,10/30/2016,11:00am,8B Platteview Jr Trojans 8th,8B AG Lady Jays Grey 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,10/30/2016,8:00am,8B DC West Swish 21 8th,8B OSA Black 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,10/30/2016,9:00am,8B AL Jr Lynx 8th,8B OSA Black 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,11/5/2016,7:00pm,8B Millard West Green 8th,8B Platteview Jr Trojans 8th,8th Grade Bronze,ERMS,Court 1
+Fall 2016,11/6/2016,10:00am,8B Elkhorn Elite Blue 8th,8B Westside White 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,11/6/2016,11:00am,8B Elkhorn Elite Red 8th,8B AL Jr Lynx 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,11/6/2016,8:00am,8B AG Lady Jays Grey 8th,8B Skutt Green 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,11/6/2016,9:00am,8B DC West Swish 21 8th,8B Elkhorn Elite Blue 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,11/12/2016,7:00pm,8B Platteview Jr Trojans 8th,8B Elkhorn Elite Blue 8th,8th Grade Bronze,ERMS,Court 1
+Fall 2016,11/13/2016,10:00am,8B Skutt Green 8th,8B Millard West Green 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,11/13/2016,11:00am,8B DC West Swish 21 8th,8B AL Jr Lynx 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,11/13/2016,8:00am,8B Westside White 8th,8B OSA Black 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,11/13/2016,9:00am,8B AG Lady Jays Grey 8th,8B Elkhorn Elite Red 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,11/19/2016,7:00pm,8B Elkhorn Elite Blue 8th,8B Skutt Green 8th,8th Grade Bronze,ERMS,Court 1
+Fall 2016,11/20/2016,10:00am,8B Elkhorn Elite Red 8th,8B DC West Swish 21 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,11/20/2016,11:00am,8B AL Jr Lynx 8th,8B Westside White 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,11/20/2016,8:00am,8B Millard West Green 8th,8B AG Lady Jays Grey 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,11/20/2016,9:00am,8B OSA Black 8th,8B Platteview Jr Trojans 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,12/3/2016,7:00pm,8B Millard West Green 8th,8B Elkhorn Elite Red 8th,8th Grade Bronze,ERMS,Court 1
+Fall 2016,12/4/2016,10:00am,8B AG Lady Jays Grey 8th,8B Elkhorn Elite Blue 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,12/4/2016,11:00am,8B Platteview Jr Trojans 8th,8B AL Jr Lynx 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,12/4/2016,8:00am,8B Westside White 8th,8B DC West Swish 21 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,12/4/2016,9:00am,8B Skutt Green 8th,8B OSA Black 8th,8th Grade Bronze,ERMS,Court 2
+Fall 2016,10/15/2016,8:00pm,8G Lewis Township Titans 8th,8G Millard North Silver 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/16/2016,4:00pm,8G PLV South Titans Black 8th,8G Marian Jr Crusaders Blue 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/16/2016,5:00pm,8G Legends 8th,8G PLV South Titans Black 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/16/2016,6:00pm,8G Unity Stars 8th,8G Lewis Township Titans 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/16/2016,7:00pm,8G Gross Omaha Cougars 8th,8G Lincoln Huskies 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/16/2016,8:00pm,8G Millard West Black 8th,8G Elkhorn Elite Gold 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/22/2016,8:00pm,8G Millard North Silver 8th,8G Gross Omaha Cougars 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/23/2016,4:00pm,8G Nebraska Lasers Black 8th,8G Marian Jr Crusaders Blue 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/23/2016,5:00pm,8G Nebraska Lasers Black 8th,8G Millard West Black 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/23/2016,6:00pm,8G Elkhorn Elite Gold 8th,8G Nebraska United 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/23/2016,7:00pm,8G Unity Stars 8th,8G Nebraska United 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/23/2016,8:00pm,8G Lincoln Huskies 8th,8G Legends 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/29/2016,8:00pm,8G Legends 8th,8G Millard North Silver 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/30/2016,4:00pm,8G Marian Jr Crusaders Blue 8th,8G Lincoln Huskies 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/30/2016,5:00pm,8G PLV South Titans Black 8th,8G Nebraska United 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/30/2016,6:00pm,8G Nebraska Lasers Black 8th,8G Nebraska United 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/30/2016,7:00pm,8G Nebraska Lasers Black 8th,8G Elkhorn Elite Gold 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/30/2016,8:00pm,8G Gross Omaha Cougars 8th,8G Lewis Township Titans 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/5/2016,8:00pm,8G Millard North Silver 8th,8G Marian Jr Crusaders Blue 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/6/2016,4:00pm,8G Unity Stars 8th,8G Gross Omaha Cougars 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/6/2016,5:00pm,8G Elkhorn Elite Gold 8th,8G Unity Stars 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/6/2016,6:00pm,8G Millard West Black 8th,8G PLV South Titans Black 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/6/2016,7:00pm,8G Lincoln Huskies 8th,8G Millard West Black 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/6/2016,8:00pm,8G Lewis Township Titans 8th,8G Legends 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/12/2016,8:00pm,8G Elkhorn Elite Gold 8th,8G Millard North Silver 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/13/2016,4:00pm,8G PLV South Titans Black 8th,8G Nebraska Lasers Black 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/13/2016,5:00pm,8G Unity Stars 8th,8G Nebraska Lasers Black 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/13/2016,6:00pm,8G Lincoln Huskies 8th,8G Elkhorn Elite Gold 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/13/2016,7:00pm,8G Marian Jr Crusaders Blue 8th,8G Lewis Township Titans 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/13/2016,8:00pm,8G Legends 8th,8G Gross Omaha Cougars 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/19/2016,8:00pm,8G Millard North Silver 8th,8G Nebraska United 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/20/2016,4:00pm,8G Lewis Township Titans 8th,8G Millard West Black 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/20/2016,5:00pm,8G Elkhorn Elite Gold 8th,8G PLV South Titans Black 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/20/2016,6:00pm,8G Unity Stars 8th,8G Legends 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/20/2016,7:00pm,8G Marian Jr Crusaders Blue 8th,8G Legends 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,11/20/2016,8:00pm,8G Nebraska Lasers Black 8th,8G Lincoln Huskies 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,12/3/2016,8:00pm,8G Millard West Black 8th,8G Millard North Silver 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,12/4/2016,4:00pm,8G Nebraska United 8th,8G Lewis Township Titans 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,12/4/2016,5:00pm,8G Nebraska United 8th,8G Lincoln Huskies 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,12/4/2016,6:00pm,8G Gross Omaha Cougars 8th,8G Millard West Black 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,12/4/2016,7:00pm,8G Gross Omaha Cougars 8th,8G Marian Jr Crusaders Blue 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,12/4/2016,8:00pm,8G PLV South Titans Black 8th,8G Unity Stars 8th,8th Grade Gold,ERMS,Court 1
+Fall 2016,10/16/2016,1:00pm,8S Harlan Cyclones 8th,8S AL Jr Lynx Blue 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,10/16/2016,1:00pm,8S OSA Gold 7th,8S Glenwood 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/16/2016,12:00pm,8S AL Jr Lynx Blue 8th,8S AG Lady Jays Blue 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/16/2016,2:00pm,8S Nebraska Lasers Gold 7th,8S CB TJ Jr Jackets 7th/8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/16/2016,2:00pm,8S Harlan Cyclones 8th,8S Westside Red 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,10/16/2016,3:00pm,8S Elkhorn Elite Gold 7th,8S Bellevue Thunder 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,10/16/2016,3:00pm,8S Nebraska Lasers Gold 7th,8S Westpoint GACC 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/16/2016,4:00pm,8S OSA Gold 8th,8S Hustle 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/16/2016,5:00pm,8S Bellevue Thunder 8th,8S Bellevue Ice 8th,8th Grade Silver,NE Elite,Court 2
+Fall 2016,10/16/2016,5:00pm,8S Marian Crusaders White 8th,8S Westpoint GACC 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/16/2016,6:00pm,8S Millard South 8th,8S Blair Purple 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/16/2016,7:00pm,8S Millard North Blue 8th,8S Elkhorn Elite Silver 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/16/2016,8:00pm,8S AG Lady Jays White 8th,8S Hustle 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/23/2016,1:00pm,8S Bellevue Thunder 7th,8S AG Lady Jays White 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,10/23/2016,1:00pm,8S OSA Gold 7th,8S North Bend 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/23/2016,12:00pm,8S OSA Gold 7th,8S Millard North Blue 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/23/2016,2:00pm,8S AHST Avoca 8th,8S Lincoln Rockets 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/23/2016,2:00pm,8S Bellevue Thunder 7th,8S Westside Red 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,10/23/2016,3:00pm,8S Glenwood 8th,8S Elkhorn Elite Gold 7th,8th Grade Silver,ERMS,Court 1
+Fall 2016,10/23/2016,3:00pm,8S Bellevue Thunder 8th,8S Lincoln Rockets 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/23/2016,4:00pm,8S Bellevue Thunder 8th,8S Skutt Black 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/23/2016,5:00pm,8S OSA Gold 8th,8S CB TJ Jr Jackets 7th/8th,8th Grade Silver,NE Elite,Court 2
+Fall 2016,10/23/2016,5:00pm,8S Skutt Black 8th,8S Marian Crusaders White 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/23/2016,6:00pm,8S AHST Avoca 8th,8S Millard South 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/23/2016,7:00pm,8S Elkhorn Elite Silver 8th,8S Millard South 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/23/2016,8:00pm,8S Blair Purple 8th,8S Hustle 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/30/2016,1:00pm,8S AHST Avoca 8th,8S AL Jr Lynx Blue 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,10/30/2016,1:00pm,8S Lincoln Rockets 8th,8S Westpoint GACC 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/30/2016,12:00pm,8S Lincoln Shockerz Elite 7th,8S AL Jr Lynx Blue 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/30/2016,2:00pm,8S AHST Avoca 8th,8S CB TJ Jr Jackets 7th/8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,10/30/2016,2:00pm,8S Lincoln Rockets 8th,8S Nebraska Lasers Gold 7th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/30/2016,3:00pm,8S Westpoint GACC 8th,8S Bellevue Thunder 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/30/2016,3:00pm,8S Elkhorn Elite Gold 7th,8S North Bend 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,10/30/2016,4:00pm,8S AG Lady Jays Blue 8th,8S Westside Red 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/30/2016,5:00pm,8S Bellevue Thunder 7th,8S Blair Purple 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/30/2016,5:00pm,8S Bellevue Ice 8th,8S Marian Crusaders White 8th,8th Grade Silver,NE Elite,Court 2
+Fall 2016,10/30/2016,6:00pm,8S Millard North Blue 8th,8S Skutt Black 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/30/2016,7:00pm,8S Millard South 8th,8S Glenwood 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,10/30/2016,8:00pm,8S Hustle 8th,8S Elkhorn Elite Silver 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/6/2016,1:00pm,8S Harlan Cyclones 8th,8S AG Lady Jays White 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,11/6/2016,1:00pm,8S Millard North Blue 8th,8S Lincoln Shockerz Elite 7th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/6/2016,12:00pm,8S Westside Red 8th,8S Lincoln Shockerz Elite 7th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/6/2016,2:00pm,8S Harlan Cyclones 8th,8S Blair Purple 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,11/6/2016,2:00pm,8S AL Jr Lynx Blue 8th,8S Westside Red 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/6/2016,3:00pm,8S AG Lady Jays White 8th,8S AL Jr Lynx Blue 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/6/2016,3:00pm,8S North Bend 8th,8S Millard South 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,11/6/2016,4:00pm,8S Hustle 8th,8S Glenwood 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/6/2016,5:00pm,8S Millard North Blue 8th,8S Bellevue Ice 8th,8th Grade Silver,NE Elite,Court 2
+Fall 2016,11/6/2016,5:00pm,8S AG Lady Jays Blue 8th,8S North Bend 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/6/2016,6:00pm,8S Elkhorn Elite Silver 8th,8S Bellevue Thunder 7th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/6/2016,7:00pm,8S CB TJ Jr Jackets 7th/8th,8S Marian Crusaders White 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/6/2016,8:00pm,8S OSA Gold 7th,8S Elkhorn Elite Gold 7th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/13/2016,1:00pm,8S Elkhorn Elite Gold 7th,8S AHST Avoca 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,11/13/2016,1:00pm,8S Lincoln Shockerz Elite 7th,8S Elkhorn Elite Silver 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/13/2016,12:00pm,8S Hustle 8th,8S North Bend 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/13/2016,2:00pm,8S AG Lady Jays Blue 8th,8S Blair Purple 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,11/13/2016,2:00pm,8S Millard North Blue 8th,8S Westpoint GACC 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/13/2016,3:00pm,8S Lincoln Shockerz Elite 7th,8S AG Lady Jays White 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/13/2016,3:00pm,8S Westpoint GACC 8th,8S Bellevue Ice 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,11/13/2016,4:00pm,8S Bellevue Thunder 7th,8S Glenwood 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/13/2016,5:00pm,8S OSA Gold 7th,8S Nebraska Lasers Gold 7th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/13/2016,5:00pm,8S Bellevue Ice 8th,8S Skutt Black 8th,8th Grade Silver,NE Elite,Court 2
+Fall 2016,11/13/2016,6:00pm,8S Millard South 8th,8S Nebraska Lasers Gold 7th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/13/2016,7:00pm,8S Millard South 8th,8S OSA Gold 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/13/2016,8:00pm,8S OSA Gold 8th,8S Marian Crusaders White 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/20/2016,1:00pm,8S North Bend 8th,8S Bellevue Thunder 7th,8th Grade Silver,ERMS,Court 1
+Fall 2016,11/20/2016,1:00pm,8S Glenwood 8th,8S Harlan Cyclones 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/20/2016,12:00pm,8S Skutt Black 8th,8S Westpoint GACC 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/20/2016,2:00pm,8S OSA Gold 8th,8S Lincoln Rockets 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/20/2016,2:00pm,8S Blair Purple 8th,8S Lincoln Shockerz Elite 7th,8th Grade Silver,ERMS,Court 1
+Fall 2016,11/20/2016,3:00pm,8S Skutt Black 8th,8S Lincoln Rockets 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/20/2016,3:00pm,8S AG Lady Jays Blue 8th,8S Lincoln Shockerz Elite 7th,8th Grade Silver,ERMS,Court 1
+Fall 2016,11/20/2016,4:00pm,8S AG Lady Jays White 8th,8S CB TJ Jr Jackets 7th/8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/20/2016,5:00pm,8S Nebraska Lasers Gold 7th,8S Bellevue Ice 8th,8th Grade Silver,NE Elite,Court 2
+Fall 2016,11/20/2016,5:00pm,8S Bellevue Thunder 8th,8S CB TJ Jr Jackets 7th/8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/20/2016,6:00pm,8S Westside Red 8th,8S Millard North Blue 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/20/2016,7:00pm,8S Nebraska Lasers Gold 7th,8S Elkhorn Elite Gold 7th,8th Grade Silver,ERMS,Court 2
+Fall 2016,11/20/2016,8:00pm,8S Marian Crusaders White 8th,8S OSA Gold 7th,8th Grade Silver,ERMS,Court 2
+Fall 2016,12/4/2016,1:00pm,8S OSA Gold 8th,8S Elkhorn Elite Gold 7th,8th Grade Silver,ERMS,Court 1
+Fall 2016,12/4/2016,1:00pm,8S CB TJ Jr Jackets 7th/8th,8S Skutt Black 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,12/4/2016,12:00pm,8S OSA Gold 7th,8S Bellevue Thunder 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,12/4/2016,2:00pm,8S OSA Gold 8th,8S Bellevue Thunder 7th,8th Grade Silver,ERMS,Court 2
+Fall 2016,12/4/2016,2:00pm,8S AL Jr Lynx Blue 8th,8S Blair Purple 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,12/4/2016,3:00pm,8S Westside Red 8th,8S AG Lady Jays White 8th,8th Grade Silver,ERMS,Court 1
+Fall 2016,12/4/2016,3:00pm,8S Hustle 8th,8S AHST Avoca 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,12/4/2016,4:00pm,8S AG Lady Jays Blue 8th,8S Glenwood 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,12/4/2016,5:00pm,8S Elkhorn Elite Silver 8th,8S AG Lady Jays Blue 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,12/4/2016,5:00pm,8S Bellevue Ice 8th,8S AHST Avoca 8th,8th Grade Silver,NE Elite,Court 2
+Fall 2016,12/4/2016,6:00pm,8S Harlan Cyclones 8th,8S Elkhorn Elite Silver 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,12/4/2016,7:00pm,8S Harlan Cyclones 8th,8S North Bend 8th,8th Grade Silver,ERMS,Court 2
+Fall 2016,12/4/2016,8:00pm,8S Marian Crusaders White 8th,8S Lincoln Rockets 8th,8th Grade Silver,ERMS,Court 2
